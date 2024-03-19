@@ -6,6 +6,7 @@ Elmehdi Saber Portfolio is a showcase of web development projects created by Elm
 ## Links
 - [Deployed Site](#) https://mehdisaber332.github.io/Portfolio-Website/
 - [Final Project Blog Article](#) 
+- [LinkedIn](https://www.linkedin.com/in/elmehdi-saber-3b9a29278/)
 
 
 ## Installation
